@@ -2,15 +2,15 @@
 pragma solidity ^0.8.0;
 
 import "@1001-digital/erc721-extensions/contracts/WithAdditionalMints.sol";
+import "@1001-digital/erc721-extensions/contracts/WithFrozenMetadata.sol";
 import "@1001-digital/erc721-extensions/contracts/WithSaleStart.sol";
 import "@1001-digital/erc721-extensions/contracts/WithTokenPrices.sol";
-import "@1001-digital/erc721-extensions/contracts/WithFrozenMetadata.sol";
 
 contract WagmiTable is
     WithAdditionalMints,
-    WithSaleStart,
+    WithFrozenMetadata,
     WithTokenPrices,
-    WithFrozenMetadata
+    WithSaleStart
 {
     constructor(
         uint256 _initialSupply,
@@ -20,10 +20,10 @@ contract WagmiTable is
         address _aaron
     )
         ERC721("WagmiTable", "WT")
-        WithIPFSMetaData(_cid)
-        WithLimitedSupply(_initialSupply)
         WithSaleStart(_time)
+        WithIPFSMetaData(_cid)
         WithTokenPrices(_defaultPrice)
+        WithLimitedSupply(_initialSupply)
     {
         _mint(_aaron, 0);
     }
