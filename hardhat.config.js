@@ -8,6 +8,8 @@ require('solidity-coverage')
 // Import our tasks
 require('./tasks/accounts.js');
 require('./tasks/deploy.js');
+require('./tasks/setSaleStart.js');
+require('./tasks/setTokenPrices.js');
 
 /**
  * @type import('hardhat/config').HardhatUserConfig
