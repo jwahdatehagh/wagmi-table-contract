@@ -142,5 +142,26 @@ describe('WagmiTable', function () {
       await expect(contract.connect(buyer).mint(3, buyer.address, { value: DEFAULT_PRICE }))
         .to.be.revertedWith(`Pay up, friend`)
     })
+
+    it('allows the owner to withdraw funds from the contract', async () => {
+      const ownerBalance = await ethers.provider.getBalance(owner.address)
+      expect(await ethers.provider.getBalance(contract.address)).to.equal(0)
+
+      await contract.connect(buyer).mint(1, buyer.address, { value: DEFAULT_PRICE })
+      await contract.connect(buyer).mint(2, buyer.address, { value: DEFAULT_PRICE })
+      await contract.connect(buyer).mint(3, buyer.address, { value: DEFAULT_PRICE })
+      await contract.connect(buyer).mint(4, buyer.address, { value: DEFAULT_PRICE })
+
+
+      expect(await ethers.provider.getBalance(contract.address)).to.equal(DEFAULT_PRICE.mul(4))
+
+      // No funds sent to the owner yet.
+      expect(await ethers.provider.getBalance(owner.address)).to.equal(ownerBalance)
+
+      await expect(await contract.connect(owner).withdraw()).to.changeEtherBalance(owner, DEFAULT_PRICE.mul(4))
+
+      // No funds left in contract
+      expect(await ethers.provider.getBalance(contract.address)).to.equal(0)
+    })
   })
 })
