@@ -3,7 +3,6 @@ const { ethers } = require('hardhat')
 
 const DEFAULT_PRICE = ethers.utils.parseEther('0.2')
 const CONTENT_ID = 'FOOBARBAZ'
-const AARAALTO = '0x03C19A8432904f450cc90ba1892329deb43C8077'
 const TWO_MINUTES = 120
 
 describe('WagmiTable', function () {
@@ -21,7 +20,7 @@ describe('WagmiTable', function () {
 
   beforeEach(async () => {
     saleStart = (await ethers.provider.getBlock('latest')).timestamp - TWO_MINUTES
-    contract = await WagmiTable.deploy(100, DEFAULT_PRICE, CONTENT_ID, saleStart, AARAALTO)
+    contract = await WagmiTable.deploy(100, DEFAULT_PRICE, CONTENT_ID, saleStart)
     await contract.deployed();
 
     // Get user addresses
@@ -33,8 +32,12 @@ describe('WagmiTable', function () {
       expect(await contract.totalSupply()).to.equal(100)
     })
 
-    it('should mint the WAGMI token #0 to aarons address', async () => {
-      expect(await contract.ownerOf(0)).to.equal(AARAALTO)
+    it('should mint the gift tokens', async () => {
+      expect(await contract.ownerOf(0)).to.equal('0x03C19A8432904f450cc90ba1892329deb43C8077')
+      expect(await contract.ownerOf(17)).to.equal('0xE4C107c27AE5869E323289c04aE55827a4EaA7d3')
+      expect(await contract.ownerOf(69)).to.equal('0xc8f8e2F59Dd95fF67c3d39109ecA2e2A017D4c8a')
+      expect(await contract.ownerOf(72)).to.equal('0xC352B534e8b987e036A93539Fd6897F53488e56a')
+      expect(await contract.ownerOf(129)).to.equal('0xFF9774E77966a96b920791968a41aa840DEdE507')
     })
   })
 
@@ -102,7 +105,7 @@ describe('WagmiTable', function () {
   describe('Public Sale', () => {
     it('should not allow users to mint tokens before the sale starts', async () => {
       saleStart = (await ethers.provider.getBlock('latest')).timestamp + TWO_MINUTES
-      contract = await WagmiTable.deploy(100, DEFAULT_PRICE, CONTENT_ID, saleStart, AARAALTO)
+      contract = await WagmiTable.deploy(100, DEFAULT_PRICE, CONTENT_ID, saleStart)
       await contract.deployed();
 
       await expect(contract.connect(buyer).mint(1, buyer.address, { value: DEFAULT_PRICE }))

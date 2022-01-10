@@ -11,9 +11,7 @@ task('deploy', 'Deploys the smart contract')
       // The IPFS hash of the collection
       process.env.IPFS_CONTENT_ID,
       // When the sale should start
-      saleStart,
-      // The artist address
-      process.env.ARTIST_ADDRESS
+      saleStart
     ]
 
     const WagmiTable = await ethers.getContractFactory('WagmiTable')

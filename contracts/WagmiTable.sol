@@ -32,13 +32,11 @@ contract WagmiTable is
     /// @param _defaultPrice The default price for all tokens
     /// @param _cid The content identifyer for the collection
     /// @param _time The sale start time
-    /// @param _aaron The artist address
     constructor(
         uint256 _initialSupply,
         uint256 _defaultPrice,
         string memory _cid,
-        uint256 _time,
-        address _aaron
+        uint256 _time
     )
         ERC721("WagmiTable", "WT")
         WithSaleStart(_time)
@@ -46,7 +44,20 @@ contract WagmiTable is
         WithTokenPrices(_defaultPrice)
         WithLimitedSupply(_initialSupply)
     {
-        _mint(_aaron, 0);
+        // Mint #0 to Aaron
+        _mint(0x03C19A8432904f450cc90ba1892329deb43C8077, 0);
+
+        // Mint #17 to Sandy
+        _mint(0xE4C107c27AE5869E323289c04aE55827a4EaA7d3, 17);
+
+        // Gift #69 to Jack Butcher / VV
+        _mint(0xc8f8e2F59Dd95fF67c3d39109ecA2e2A017D4c8a, 69);
+
+        // Gift #72 to Larva Labs
+        _mint(0xC352B534e8b987e036A93539Fd6897F53488e56a, 72);
+
+        // Gift #129 to the Scapoors
+        _mint(0xFF9774E77966a96b920791968a41aa840DEdE507, 129);
     }
 
     /// Mint a new WAGMI TABLE token
@@ -88,3 +99,5 @@ contract WagmiTable is
         _;
     }
 }
+
+// a gift to aaraalto.eth from jalil.eth
