@@ -1,0 +1,13 @@
+{
+    "id": 127,
+    "symbol": "Cope",
+    "name": "Cope",
+    "description": "to deal with losses",
+    "image": "ipfs://QmUNCpP1CRooEhtY1dvWLQKU3cFLz9XKKKR2yyYTEgbpKf",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

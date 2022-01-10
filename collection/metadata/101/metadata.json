@@ -1,0 +1,13 @@
+{
+    "id": 101,
+    "symbol": "Lr",
+    "name": "Looks Rare",
+    "description": "it looks rare",
+    "image": "ipfs://QmT2cJmbvekgCkKjfX1rLujBBBjFdSGmfgUhEbAgVAo69b",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

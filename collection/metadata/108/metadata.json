@@ -1,0 +1,13 @@
+{
+    "id": 108,
+    "symbol": "Blc",
+    "name": "Blue Chips",
+    "description": "a true original",
+    "image": "ipfs://QmcXNNCkV8pRHu4KAymt6ihFUNMP9Vf669GGpKLLJ6tVb1",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

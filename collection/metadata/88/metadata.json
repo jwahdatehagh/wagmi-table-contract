@@ -1,0 +1,13 @@
+{
+    "id": 88,
+    "symbol": "Lfg",
+    "name": "Let's Fucking Go",
+    "description": "a battle cry",
+    "image": "ipfs://Qmaj9fKXUATWQRxssHhZC5xkwWuLxPeFkcMHpsKEfS7h14",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

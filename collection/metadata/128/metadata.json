@@ -1,0 +1,13 @@
+{
+    "id": 128,
+    "symbol": "Ngmi",
+    "name": "NGMI",
+    "description": "not gonna make it",
+    "image": "ipfs://QmPBr4iV3sZJgAkBZfNWF67pogXLjrnWCPtciHsGzPr94x",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

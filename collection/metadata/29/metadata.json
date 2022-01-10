@@ -1,0 +1,13 @@
+{
+    "id": 29,
+    "symbol": "Dc",
+    "name": "Discord",
+    "description": "a digital treehouse",
+    "image": "ipfs://QmZ8GPCLbDUSNgXUbn4evTqR9XmBJJxA8b1auF9KpvuKsF",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

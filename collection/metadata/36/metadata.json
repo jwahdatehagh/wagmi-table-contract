@@ -1,0 +1,13 @@
+{
+    "id": 36,
+    "symbol": "Lgr",
+    "name": "Ledger",
+    "description": "immutable record of transactions",
+    "image": "ipfs://QmeisLVqxVeeWaf1Xu2YnVBoSJVGZgLRjSFfGzGCH9GT4Z",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 74,
+    "symbol": "Bear",
+    "name": "Bear",
+    "description": "lifeless pessemism",
+    "image": "ipfs://QmYb2tjhU4mTqUhbxT5MCdN1YqWoKfCrXewo7GyGNFngru",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

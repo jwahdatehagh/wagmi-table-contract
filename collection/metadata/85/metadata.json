@@ -1,0 +1,13 @@
+{
+    "id": 85,
+    "symbol": "Eip",
+    "name": "Ethereum Improvement Proposals",
+    "description": "a way forward",
+    "image": "ipfs://QmPY6ua1FdFx4nLcr57tMXt98TP3WxTCNPQw1Qbcg88H8C",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 111,
+    "symbol": "F",
+    "name": "Floor price",
+    "description": "sales start here",
+    "image": "ipfs://QmeG72oR8TgSb6XHnpQJLknB1qSUS8rEeeRwAGJZmcNtDi",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

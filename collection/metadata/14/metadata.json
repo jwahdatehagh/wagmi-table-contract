@@ -1,0 +1,13 @@
+{
+    "id": 14,
+    "symbol": "Fnd",
+    "name": "Foundation",
+    "description": "you need an invitation",
+    "image": "ipfs://QmWMWHPzcxYijmwDLMr4jRhusTHtxVN34mCVogb5mUzRZg",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

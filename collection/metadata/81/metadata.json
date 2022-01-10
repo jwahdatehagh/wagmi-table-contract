@@ -1,0 +1,13 @@
+{
+    "id": 81,
+    "symbol": "Nft",
+    "name": "Non Fungible Token",
+    "description": "not the same",
+    "image": "ipfs://QmR7QKARqP5Ebwf7uGhDKUuHx4CrTHGkSrXnBdVg2e3bCd",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

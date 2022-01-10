@@ -1,0 +1,13 @@
+{
+    "id": 30,
+    "symbol": "Eg",
+    "name": "Easter Egg",
+    "description": "hidden surprise",
+    "image": "ipfs://Qmcd7T9CmmiFZJ7u8wdHz4fZY5Zoxt4b6kaq2yDFdXvJQh",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "art"
+        }
+    ]
+}

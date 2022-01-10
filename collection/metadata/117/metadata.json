@@ -1,0 +1,13 @@
+{
+    "id": 117,
+    "symbol": "Vibe",
+    "name": "Vibe",
+    "description": "what life is about",
+    "image": "ipfs://QmTUTpuFFFwjpF8RR9ToQgbKXfAwMXZaKXtL1marK6S1Pr",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

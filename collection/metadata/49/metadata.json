@@ -1,0 +1,13 @@
+{
+    "id": 49,
+    "symbol": "Mt",
+    "name": "Meatspace",
+    "description": "a place beyond digital",
+    "image": "ipfs://QmRBnen9KtBAwfcivA76S9D7K9t5bXNqciz45bwaW4oHQ5",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

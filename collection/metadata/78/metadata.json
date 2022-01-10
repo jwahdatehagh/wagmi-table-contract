@@ -1,0 +1,13 @@
+{
+    "id": 78,
+    "symbol": "Ptp",
+    "name": "Peer to Peer",
+    "description": "peer to peer",
+    "image": "ipfs://QmUhkkQ2djuMWmZnDKkZQxjX5Ws8xN664HNobtk7LBTrjs",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

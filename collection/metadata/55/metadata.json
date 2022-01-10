@@ -1,0 +1,13 @@
+{
+    "id": 55,
+    "symbol": "Addy",
+    "name": "Address",
+    "description": "an address",
+    "image": "ipfs://QmURu8b1oVmps8C3kdvKp4C1kJJhpqhefNxXrj8bowEL8c",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

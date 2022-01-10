@@ -1,0 +1,13 @@
+{
+    "id": 6,
+    "symbol": "Dh",
+    "name": "Diamond Hands",
+    "description": "diamond hands never sell",
+    "image": "ipfs://QmXZdi2dqc1fjtoAGuSxmdvVXRZgbgKNTeN1NFCKyKuRQj",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

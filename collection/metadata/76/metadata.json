@@ -1,0 +1,13 @@
+{
+    "id": 76,
+    "symbol": "Ok",
+    "name": "Ok",
+    "description": "Ok, boomer",
+    "image": "ipfs://QmbGSkLQz59AsLVnia3CkZy1Kj2e7PvR1YgmbbwvuifYhb",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

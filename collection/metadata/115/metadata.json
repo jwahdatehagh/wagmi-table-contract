@@ -1,0 +1,13 @@
+{
+    "id": 115,
+    "symbol": "R",
+    "name": "Rare",
+    "description": "rare af",
+    "image": "ipfs://QmRkyuBnJJW3exb2vtn8xjtnUEGtyGe3eq6zcx94GYftaH",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 68,
+    "symbol": "Cn",
+    "name": "Coin",
+    "description": "a store of value",
+    "image": "ipfs://QmToqEKJy6CZvhyB6CsskJSA6VE9YxviJv6ZHJmfX4RtQw",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

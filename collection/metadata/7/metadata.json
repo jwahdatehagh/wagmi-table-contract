@@ -1,0 +1,13 @@
+{
+    "id": 7,
+    "symbol": "Up",
+    "name": "Up",
+    "description": "the only way is up",
+    "image": "ipfs://QmPcc9iB1bDBLT3BDLXWxJNH4Ee6qNsSBUjtgBhE1PixHS",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 34,
+    "symbol": "Os",
+    "name": "OpenSea",
+    "description": "nft town square",
+    "image": "ipfs://QmRfHmiXyZdWVqDKFZpD5Ew3idHAR3rTKGkTpuSrFisJuY",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

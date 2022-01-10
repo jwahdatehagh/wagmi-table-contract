@@ -1,0 +1,13 @@
+{
+    "id": 75,
+    "symbol": "Maxi",
+    "name": "Maximalist",
+    "description": "monocoinistic",
+    "image": "ipfs://QmXPaTyQEDcH97pF1VZY42ohxDozQ4Cc5gNioLNVeoYZjt",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 23,
+    "symbol": "Wei",
+    "name": "Wei",
+    "description": "tiny ether",
+    "image": "ipfs://QmWTCWjVbe9FHWGxffDa3siKRVLeR8jwMyoT5dmar9GrEc",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

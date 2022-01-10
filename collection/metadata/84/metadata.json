@@ -1,0 +1,13 @@
+{
+    "id": 84,
+    "symbol": "Bot",
+    "name": "Bot",
+    "description": "computer character",
+    "image": "ipfs://QmYGXGPWeKVosmpezGfySomwYk8VCXc6aoSJonDexU4N5L",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

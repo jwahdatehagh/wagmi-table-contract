@@ -1,0 +1,13 @@
+{
+    "id": 48,
+    "symbol": "Moon",
+    "name": "Moon",
+    "description": "numbers go up",
+    "image": "ipfs://QmeSed8cA7X3MsuyMHM1WJZ47dPwrMQkHRNAaeBFfNBD3w",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

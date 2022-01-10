@@ -1,0 +1,13 @@
+{
+    "id": 54,
+    "symbol": "Frk",
+    "name": "Fork",
+    "description": "a change in protocol",
+    "image": "ipfs://QmRcuguXXkYNYFU1uk3Umhr1Jvnz8aJQzZH4nSND3ZMQQR",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

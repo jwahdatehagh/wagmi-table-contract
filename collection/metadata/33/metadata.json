@@ -1,0 +1,13 @@
+{
+    "id": 33,
+    "symbol": "Dgn",
+    "name": "Degenerate",
+    "description": "yield chaser",
+    "image": "ipfs://QmWthrWysAf1ko7yUijmpQBEc2rEaVcvnSLSwULFLQ7esg",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

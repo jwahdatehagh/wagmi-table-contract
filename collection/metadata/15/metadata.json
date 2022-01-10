@@ -1,0 +1,13 @@
+{
+    "id": 15,
+    "symbol": "Ab",
+    "name": "Art Blocks",
+    "description": "art blocks",
+    "image": "ipfs://Qmb5Qcq8fmf55pp4W5zZsLJvTzLXrQx3F2yKRE4XESrkfb",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

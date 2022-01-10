@@ -1,0 +1,13 @@
+{
+    "id": 113,
+    "symbol": "In",
+    "name": "Incentive",
+    "description": "it gets you going",
+    "image": "ipfs://QmdJdWpUYzEf8gceA8JxEkFEEVRu7GTiDbeXJwJWYdP1w9",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

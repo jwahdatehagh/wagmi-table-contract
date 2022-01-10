@@ -1,0 +1,13 @@
+{
+    "id": 69,
+    "symbol": "V",
+    "name": "Value",
+    "description": "worth of something",
+    "image": "ipfs://QmYNHKSmjfoiz4CDie9Z772QdCXtFhEsNPJWAzcCHTWPmu",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

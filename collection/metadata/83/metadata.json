@@ -1,0 +1,13 @@
+{
+    "id": 83,
+    "symbol": "W",
+    "name": "Wallet",
+    "description": "coin holder",
+    "image": "ipfs://QmNkxF5jkuaog99kfGqLwGSvbs6i4VDkSaFAS5fgax2J9G",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

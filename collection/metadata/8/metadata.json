@@ -1,0 +1,13 @@
+{
+    "id": 8,
+    "symbol": "Btc",
+    "name": "Bitcoin",
+    "description": "digital gold",
+    "image": "ipfs://QmT36AnjfdHnru7rhDTzHzsTFUQoxBGaUMoYUHe2fdrdip",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

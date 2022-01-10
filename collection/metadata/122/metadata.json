@@ -1,0 +1,13 @@
+{
+    "id": 122,
+    "symbol": "Hype",
+    "name": "Hype",
+    "description": "intense publicity",
+    "image": "ipfs://QmdDns3mUWUGS2cfhDxVRPUZgpVS8FZojPXTpo3yV7vyX4",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

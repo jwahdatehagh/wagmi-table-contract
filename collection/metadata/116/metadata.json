@@ -1,0 +1,13 @@
+{
+    "id": 116,
+    "symbol": "Fud",
+    "name": "FUD",
+    "description": "fear, uncertaintity, doubt",
+    "image": "ipfs://QmdQs4eYDAxyYnttCKwPQ8Wtm4VBEsXfrrf3AToLccNwz5",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

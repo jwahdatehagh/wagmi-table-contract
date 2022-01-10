@@ -1,0 +1,13 @@
+{
+    "id": 24,
+    "symbol": "Sc",
+    "name": "Smart Contract",
+    "description": "smart contract",
+    "image": "ipfs://QmReeittkoFYY3Vu41rXdjZZjT7G7qpfPRQgNnSBpkKt1H",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

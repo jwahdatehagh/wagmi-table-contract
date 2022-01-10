@@ -1,0 +1,13 @@
+{
+    "id": 18,
+    "symbol": "Whale",
+    "name": "Whale",
+    "description": "person of great wealth",
+    "image": "ipfs://QmU7QEoaEehcGd3WG8kM3rjtxLsp5dRJpRyEw656KhVU2b",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

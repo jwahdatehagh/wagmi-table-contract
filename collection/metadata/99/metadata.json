@@ -1,0 +1,13 @@
+{
+    "id": 99,
+    "symbol": "Ro",
+    "name": "Royalty",
+    "description": "a nice cut",
+    "image": "ipfs://Qmb6cLVo2htMwSnDuVt5PdmqLH9hPF6P4D1zUvAH8JetN6",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

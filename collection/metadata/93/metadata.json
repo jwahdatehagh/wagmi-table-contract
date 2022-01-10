@@ -1,0 +1,13 @@
+{
+    "id": 93,
+    "symbol": "Szn",
+    "name": "Season",
+    "description": "market cycle",
+    "image": "ipfs://QmRwrkvMd91nCdGhHfx9XV7Svd2KQJUSJjWUyQ8iHndUKV",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

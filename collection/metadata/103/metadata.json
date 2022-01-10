@@ -1,0 +1,13 @@
+{
+    "id": 103,
+    "symbol": "Pwn",
+    "name": "Pown",
+    "description": "a hurtful hack",
+    "image": "ipfs://Qmf3ZzZykmWHiqmTKG9gV4g1b9f8Ya3YRVR78aUHbM14jZ",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

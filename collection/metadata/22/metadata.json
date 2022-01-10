@@ -1,0 +1,13 @@
+{
+    "id": 22,
+    "symbol": "Sats",
+    "name": "Satoshi",
+    "description": "bitcoin atoms",
+    "image": "ipfs://QmY5Qma77vtASfdQig45YJocedZfBqFBB46cUp7zqSBSwz",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

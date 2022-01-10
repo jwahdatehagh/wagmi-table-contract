@@ -1,0 +1,13 @@
+{
+    "id": 45,
+    "symbol": "Fren",
+    "name": "Friend",
+    "description": "a trusted person",
+    "image": "ipfs://Qmdr5uDsb3eHKZk582pDystxw1U4Hu3oEio9VKGiWn4Ysx",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

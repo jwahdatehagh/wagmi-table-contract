@@ -1,0 +1,13 @@
+{
+    "id": 73,
+    "symbol": "Alpha",
+    "name": "Alpha",
+    "description": "valuable information",
+    "image": "ipfs://QmYK2yZeek1M8hyBFxNqdnRqTwBWxzApfDvFeQAWu4J1qz",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

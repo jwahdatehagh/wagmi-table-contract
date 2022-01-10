@@ -1,0 +1,13 @@
+{
+    "id": 43,
+    "symbol": "Twtr",
+    "name": "Twitter",
+    "description": "signal booster",
+    "image": "ipfs://QmWpBYSUX3uBpBjTzCXdB7Ac5HaPxuAejbesuGw1EHtNsD",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

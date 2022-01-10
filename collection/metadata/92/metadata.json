@@ -1,0 +1,13 @@
+{
+    "id": 92,
+    "symbol": "Stl",
+    "name": "Steal",
+    "description": "taken without permission",
+    "image": "ipfs://QmR5KP7YntVFST8GMr9vLXP3RvrgiDCdjNCuuR4bcbjixi",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 61,
+    "symbol": "Ph",
+    "name": "Paper Hands",
+    "description": "investors that panic sell",
+    "image": "ipfs://QmVS17S3bqpA1Dy96xRBVPkVZ9zPHFi5vEPEqgUDztj6D7",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

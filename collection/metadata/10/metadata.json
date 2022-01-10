@@ -1,0 +1,13 @@
+{
+    "id": 10,
+    "symbol": "Ens",
+    "name": "Ethereum Name Services",
+    "description": "web 3 username",
+    "image": "ipfs://QmaiSttCujdUpGBFgJ7b4aC3ENum8CggFMBu9T4Y4vhcT6",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

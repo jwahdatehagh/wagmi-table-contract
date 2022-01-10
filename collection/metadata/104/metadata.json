@@ -1,0 +1,13 @@
+{
+    "id": 104,
+    "symbol": "Rkt",
+    "name": "Rekt",
+    "description": "severely damaged",
+    "image": "ipfs://QmXhhMLfzafa5HrqNpSLohJyoSCU16Sf7fYunLtPTodAKZ",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

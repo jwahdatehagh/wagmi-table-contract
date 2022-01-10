@@ -1,0 +1,13 @@
+{
+    "id": 72,
+    "symbol": "Ll",
+    "name": "Larva Labs",
+    "description": "larva labs",
+    "image": "ipfs://QmSnS65EJxFnFwU7U2jhQ5jwnybYQMcgXEzCpJAeniSy4Z",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "art"
+        }
+    ]
+}

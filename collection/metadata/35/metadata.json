@@ -1,0 +1,13 @@
+{
+    "id": 35,
+    "symbol": "Mcd",
+    "name": "McDonalds",
+    "description": "back up plan",
+    "image": "ipfs://QmP6kTaMDwoqrNgqEJGiiVnN17bSi6pfSGVaP49K2XYF8Z",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

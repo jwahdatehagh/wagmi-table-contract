@@ -1,0 +1,13 @@
+{
+    "id": 42,
+    "symbol": "Sol",
+    "name": "Solidity",
+    "description": "solidity",
+    "image": "ipfs://QmTttorHGqxYVNtNBAZuC7nvxa71j8xsSJwQWcRC38768S",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

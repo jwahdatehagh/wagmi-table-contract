@@ -1,0 +1,13 @@
+{
+    "id": 125,
+    "symbol": "Yk",
+    "name": "IYKYK",
+    "description": "if you know you know",
+    "image": "ipfs://QmZFdPRz5Q8m2GuLPL3ZCNxU7jYmivs3aY7q2PPhYycdSB",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

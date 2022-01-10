@@ -1,0 +1,13 @@
+{
+    "id": 37,
+    "symbol": "Erc",
+    "name": "ERC",
+    "description": "ethereum request for comment",
+    "image": "ipfs://QmfHMjBZ66KbQgz2AoNJ21GBDqRcCUKp1eK7chU9GKQBLR",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

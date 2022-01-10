@@ -1,0 +1,13 @@
+{
+    "id": 98,
+    "symbol": "Air",
+    "name": "Airdrop",
+    "description": "digital gifts",
+    "image": "ipfs://QmUvDPdDezu8LjFfeRy3vWK8SFVeLMBUhnoG8FzhH15umz",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

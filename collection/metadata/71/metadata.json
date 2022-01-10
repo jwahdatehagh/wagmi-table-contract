@@ -1,0 +1,13 @@
+{
+    "id": 71,
+    "symbol": "Ut",
+    "name": "Utility",
+    "description": "function beyond aesthetic",
+    "image": "ipfs://QmRxBfgvcFSm3ZbarkLfygcs3Z5WbNLWEpFNmUdA3mi2Rv",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

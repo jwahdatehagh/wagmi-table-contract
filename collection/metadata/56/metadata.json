@@ -1,0 +1,13 @@
+{
+    "id": 56,
+    "symbol": "Dapp",
+    "name": "Decentralized Application",
+    "description": "future of apps",
+    "image": "ipfs://QmRcwAnd6xCsDTKWJc543bWz5ZyKFfbMMAPctrC8gvZfL5",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

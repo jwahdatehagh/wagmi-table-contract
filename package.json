@@ -24,6 +24,7 @@
   },
   "dependencies": {
     "@1001-digital/erc721-extensions": "1001-digital/erc721-extensions",
-    "@openzeppelin/contracts": "^4.4.1"
+    "@openzeppelin/contracts": "^4.4.1",
+    "ipfs-core": "^0.13.0"
   }
 }

@@ -1,0 +1,13 @@
+{
+    "id": 57,
+    "symbol": "Rm",
+    "name": "Roadmap",
+    "description": "a vague idea of a plan",
+    "image": "ipfs://QmbQLD34aN34xDEnA4tkQgmzghYACCXevMmi1yUcQPLWqR",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

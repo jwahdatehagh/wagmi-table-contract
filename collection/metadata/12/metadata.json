@@ -1,0 +1,13 @@
+{
+    "id": 12,
+    "symbol": "Meme",
+    "name": "Meme",
+    "description": "a viral idea",
+    "image": "ipfs://QmfHmXuR3iqsgJuoVEeYRDcMiq7WPt9YLBwbYLwy538SFE",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

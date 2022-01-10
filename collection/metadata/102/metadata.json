@@ -1,0 +1,13 @@
+{
+    "id": 102,
+    "symbol": "Snap",
+    "name": "Snapped",
+    "description": "when someone does something cool",
+    "image": "ipfs://QmU7RHLuMqYKZskWHfSNQHR9Yb52tbGvNRvqn6TRzzFx8G",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

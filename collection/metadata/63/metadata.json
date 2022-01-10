@@ -1,0 +1,13 @@
+{
+    "id": 63,
+    "symbol": "Mv",
+    "name": "Metaverse",
+    "description": "beyond the meatspace",
+    "image": "ipfs://QmawT59V6QysxnhNvRuC4nL3TUXLdBEGH5aEGKAoJtRAj7",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

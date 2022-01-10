@@ -1,8 +1,14 @@
-# Advanced Sample Hardhat Project
+# WAGMI-TABLE Contract
 
-This project demonstrates an advanced Hardhat use case, integrating other tools commonly used alongside Hardhat in the ecosystem.
+## TODOS
 
-The project comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts. It also comes with a variety of other tools, preconfigured to work with the project code.
+- [ ] Generate the IPFS Collection
+  - [ ] generate all metadata folders from the collection.js array
+  - [ ] copy over all the images into their metadata folders and rename them to "image.png"
+  - [ ] hash all the images (so we can generate the IPFS links)
+- [ ] ...
+
+## Setup
 
 Try running some of the following tasks:
 
@@ -25,7 +31,7 @@ npx solhint 'contracts/**/*.sol'
 npx solhint 'contracts/**/*.sol' --fix
 ```
 
-# Etherscan verification
+## Etherscan verification
 
 To try out Etherscan verification, you first need to deploy a contract to an Ethereum network that's supported by Etherscan, such as Ropsten.
 

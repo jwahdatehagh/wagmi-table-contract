@@ -1,0 +1,13 @@
+{
+    "id": 44,
+    "symbol": "Pfp",
+    "name": "Profile Picture",
+    "description": "flex space",
+    "image": "ipfs://QmViMzXe3pE2RwWAiacFS9jLg1W75ZA2D4QuueRsFBktXR",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "art"
+        }
+    ]
+}

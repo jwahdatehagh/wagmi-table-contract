@@ -1,0 +1,13 @@
+{
+    "id": 100,
+    "symbol": "Lad",
+    "name": "Larva Lads",
+    "description": "meme is strong",
+    "image": "ipfs://QmS1Gn5kYgK8NtBCJV8ZTXNNHnny3Z7YNgsgMBQwymo6Jm",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "art"
+        }
+    ]
+}

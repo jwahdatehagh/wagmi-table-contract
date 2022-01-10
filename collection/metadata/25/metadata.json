@@ -1,0 +1,13 @@
+{
+    "id": 25,
+    "symbol": "Block",
+    "name": "Block",
+    "description": "a measure of time",
+    "image": "ipfs://QmWPnTh2vffSr5seN9CKDH8ouFcUDeavgMEZjLxsUud44b",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

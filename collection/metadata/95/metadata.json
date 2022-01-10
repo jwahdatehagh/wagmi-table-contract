@@ -1,0 +1,13 @@
+{
+    "id": 95,
+    "symbol": "Ath",
+    "name": "All Time High",
+    "description": "never been this high",
+    "image": "ipfs://QmchpzQkzQCm3MCvXpfyVjBfpqFqP12jsdLE8oc7ax2tCT",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

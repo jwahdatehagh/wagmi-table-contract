@@ -1,0 +1,13 @@
+{
+    "id": 107,
+    "symbol": "Hodl",
+    "name": "HODL",
+    "description": "hold on tight",
+    "image": "ipfs://Qmb326PfdjDt659YcNXSsyebTo84Q4dqk1QJ8CwkJxuZSq",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

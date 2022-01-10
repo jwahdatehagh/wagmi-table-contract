@@ -1,0 +1,13 @@
+{
+    "id": 77,
+    "symbol": "Www",
+    "name": "WWW",
+    "description": "interconnected world",
+    "image": "ipfs://QmTGuiLSurF58xyJJ8oG3m6MZuViuDJ6SW5D63Kvfgj1oK",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

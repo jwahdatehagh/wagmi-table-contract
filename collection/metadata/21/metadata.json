@@ -1,0 +1,13 @@
+{
+    "id": 21,
+    "symbol": "Drop",
+    "name": "Drop",
+    "description": "new stuff",
+    "image": "ipfs://QmexsLwKn2qy8eSbheXeeQvH1HYnLiesV5xHiDhsP12hjC",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

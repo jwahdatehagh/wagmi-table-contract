@@ -1,0 +1,13 @@
+{
+    "id": 13,
+    "symbol": "Cco",
+    "name": "CCO",
+    "description": "creative commons",
+    "image": "ipfs://QmQQtisDqyNmKpyGmKRwUGWis5dfk3FtYCyv7sUUko7ZUt",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

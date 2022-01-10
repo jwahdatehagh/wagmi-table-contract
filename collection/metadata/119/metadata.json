@@ -1,0 +1,13 @@
+{
+    "id": 119,
+    "symbol": "Shill",
+    "name": "Shill",
+    "description": "pushy selling",
+    "image": "ipfs://QmQc9513sAs6CTcTVMJrAD2jhJ1JrTieNXDfU7AE95QbYc",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

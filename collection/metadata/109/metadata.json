@@ -1,0 +1,13 @@
+{
+    "id": 109,
+    "symbol": "Dpl",
+    "name": "Deploy",
+    "description": "new digital building block",
+    "image": "ipfs://QmTs2odQsriy83vimii4pwYGVhsPfqebruScpd3tSkywG1",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

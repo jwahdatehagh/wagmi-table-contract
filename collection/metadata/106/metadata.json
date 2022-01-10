@@ -1,0 +1,13 @@
+{
+    "id": 106,
+    "symbol": "Cop",
+    "name": "Cop",
+    "description": "get something at value",
+    "image": "ipfs://QmbEVzNK95pwvAVo3rd7TV7HMWaAyZRwqM7LTJjNaBrNpn",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

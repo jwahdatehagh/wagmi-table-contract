@@ -1,0 +1,13 @@
+{
+    "id": 79,
+    "symbol": "Jpg",
+    "name": "JPG",
+    "description": "bitmap investment",
+    "image": "ipfs://QmcK7FSRjXTY1dcLxjf2hr1dog4W7NMmmsU3VFSXkBsgkK",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

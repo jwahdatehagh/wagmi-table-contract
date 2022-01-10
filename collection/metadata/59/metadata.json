@@ -1,0 +1,13 @@
+{
+    "id": 59,
+    "symbol": "Mam",
+    "name": "Madam",
+    "description": "token of respect",
+    "image": "ipfs://QmPefhjnCaa7qDsg9TPQFAwrxTN3eyykLVTo2A9RBjcDcs",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

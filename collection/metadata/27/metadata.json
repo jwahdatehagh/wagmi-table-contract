@@ -1,0 +1,13 @@
+{
+    "id": 27,
+    "symbol": "Pk",
+    "name": "Private Key",
+    "description": "a key you keep private",
+    "image": "ipfs://QmeoV9xZNW3maZMr8M6p8YLeX9Uon9iAf6X9DLxsUPK5yF",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

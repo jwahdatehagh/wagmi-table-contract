@@ -1,0 +1,13 @@
+{
+    "id": 28,
+    "symbol": "Ft",
+    "name": "ERC20",
+    "description": "a fungible token",
+    "image": "ipfs://QmWH3f4WKSzDesAVNsGJptSCaXynbynK8Xszjkc2Q3APWZ",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

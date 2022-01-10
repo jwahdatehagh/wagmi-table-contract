@@ -1,0 +1,13 @@
+{
+    "id": 19,
+    "symbol": "Sudo",
+    "name": "Pseudonym",
+    "description": "self-given name",
+    "image": "ipfs://QmQ5n8Lac6FscbfRi5kYUKaRGsV7ttsUeUUFShR3NPQ736",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

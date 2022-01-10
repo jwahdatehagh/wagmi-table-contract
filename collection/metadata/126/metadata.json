@@ -1,0 +1,13 @@
+{
+    "id": 126,
+    "symbol": "Sel",
+    "name": "Seems Legit",
+    "description": "looks trustworthy",
+    "image": "ipfs://QmRTRAjWnM4tTdxkHt666DNZnRGZoVYCXuQGiq6XMG65hu",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

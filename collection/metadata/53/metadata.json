@@ -1,0 +1,13 @@
+{
+    "id": 53,
+    "symbol": "Pos",
+    "name": "Proof of Stake",
+    "description": "stakes to lose",
+    "image": "ipfs://QmeJpuL4FR1y6WcRbjXnmuGyNUaLoJQeAELemuss3dcz7f",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

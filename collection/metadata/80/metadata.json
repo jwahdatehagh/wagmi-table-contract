@@ -1,0 +1,13 @@
+{
+    "id": 80,
+    "symbol": "Svg",
+    "name": "SVG",
+    "description": "vector investment",
+    "image": "ipfs://Qmc1tp2mdBLTFJArhKJDNtPVi82fDTJWdkyMtBFHi9ZwgZ",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

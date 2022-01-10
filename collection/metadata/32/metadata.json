@@ -1,0 +1,13 @@
+{
+    "id": 32,
+    "symbol": "Li",
+    "name": "Liquidity",
+    "description": "liquid coins",
+    "image": "ipfs://QmV6be2NuRsvrqpDF7r3LsETRvEowsnLDsG6NP7MgRAcQ7",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

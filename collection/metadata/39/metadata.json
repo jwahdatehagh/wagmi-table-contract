@@ -1,0 +1,13 @@
+{
+    "id": 39,
+    "symbol": "Sca",
+    "name": "Scarcity",
+    "description": "a short supply",
+    "image": "ipfs://QmNMNNoLWzpxNR2wENAaqhYvBLZhncnQRiDdf7RK1ecqGQ",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

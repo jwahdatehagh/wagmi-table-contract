@@ -1,0 +1,13 @@
+{
+    "id": 2,
+    "symbol": "Gn",
+    "name": "GN",
+    "description": "good night",
+    "image": "ipfs://QmNUXNbucWoeMMQo3XVLimyoewCPiF91BjPh4mawchvRSy",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

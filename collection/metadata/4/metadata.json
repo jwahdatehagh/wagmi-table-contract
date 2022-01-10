@@ -1,0 +1,13 @@
+{
+    "id": 4,
+    "symbol": "Goat",
+    "name": "GOAT",
+    "description": "token of acclaim",
+    "image": "ipfs://QmUggwx7BqRWXJF2xrFmJVUj8Wccm4ktZgCUKc8p6CrNV9",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

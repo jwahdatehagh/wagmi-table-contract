@@ -1,0 +1,13 @@
+{
+    "id": 40,
+    "symbol": "Node",
+    "name": "Node",
+    "description": "a participant in the network",
+    "image": "ipfs://QmdUFq9yHc92Dtf8acvxq3ca4wYQdsYfXFcbBP5DFxRiBu",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

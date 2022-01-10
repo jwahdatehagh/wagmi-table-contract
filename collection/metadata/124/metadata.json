@@ -1,0 +1,13 @@
+{
+    "id": 124,
+    "symbol": "Few",
+    "name": "Few",
+    "description": "few understand this",
+    "image": "ipfs://QmStsLdVZBxAi7kn91EXZ8sQF67LPTuK3ySrCzNBJ8wdEu",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

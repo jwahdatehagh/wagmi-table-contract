@@ -1,0 +1,13 @@
+{
+    "id": 20,
+    "symbol": "Noob",
+    "name": "Noob",
+    "description": "a new person",
+    "image": "ipfs://QmVW9ovkSPqaf7huYjKA6YTAsiDnAxGnzBzLdTXSkiW27o",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

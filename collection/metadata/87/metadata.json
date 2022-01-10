@@ -1,0 +1,13 @@
+{
+    "id": 87,
+    "symbol": "Dsn",
+    "name": "Design",
+    "description": "intentional order of things",
+    "image": "ipfs://QmYy4iaMXJopUotMfXoPXDW5198VNnMQZabfYA6tusY5LV",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

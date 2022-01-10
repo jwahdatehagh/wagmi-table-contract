@@ -1,0 +1,13 @@
+{
+    "id": 41,
+    "symbol": "Mm",
+    "name": "MetaMask",
+    "description": "foxy wallet",
+    "image": "ipfs://QmaNGMdXCKXLofmCDZW7tMqNZ7jy7A5c8WigYQybViNec4",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

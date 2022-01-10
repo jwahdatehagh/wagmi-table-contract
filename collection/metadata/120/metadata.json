@@ -1,0 +1,13 @@
+{
+    "id": 120,
+    "symbol": "Rug",
+    "name": "Rug Pull",
+    "description": "when devs run away",
+    "image": "ipfs://QmYo3k9vGymyDtTUbeyFMmBF97Cvp9WRxTFoYRQyPU1rJU",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

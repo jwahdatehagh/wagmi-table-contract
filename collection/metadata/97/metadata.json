@@ -1,0 +1,13 @@
+{
+    "id": 97,
+    "symbol": "Free",
+    "name": "Free",
+    "description": "below cheap level",
+    "image": "ipfs://QmWnySKo9Xp4gUokcw37M2puUyVeyfJ9QvrJFFxQ6LNEyB",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

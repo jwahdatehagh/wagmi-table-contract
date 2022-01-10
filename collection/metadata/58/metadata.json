@@ -1,0 +1,13 @@
+{
+    "id": 58,
+    "symbol": "Cp",
+    "name": "Cryptopunks",
+    "description": "cryptopunk",
+    "image": "ipfs://Qma6Sa8H7kGmMMXfmys1NbaSjJ6Hq9MjLgWyGPzCj8nrkr",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "art"
+        }
+    ]
+}

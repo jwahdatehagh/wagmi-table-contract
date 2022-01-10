@@ -1,0 +1,13 @@
+{
+    "id": 51,
+    "symbol": "De",
+    "name": "Decentralization",
+    "description": "a fair game",
+    "image": "ipfs://QmYUuEJz5mXaXK9VbTPXA6LUCxBJvpbK2SGF3e984bnNpN",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

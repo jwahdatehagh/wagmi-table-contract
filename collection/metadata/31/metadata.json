@@ -1,0 +1,13 @@
+{
+    "id": 31,
+    "symbol": "Kng",
+    "name": "King",
+    "description": "token of admiration",
+    "image": "ipfs://QmZo55rdUJy6EHUaABHwLg7b4MY5DhE98GCVQG5XcPXzFw",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

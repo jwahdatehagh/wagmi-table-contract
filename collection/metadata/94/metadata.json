@@ -1,0 +1,13 @@
+{
+    "id": 94,
+    "symbol": "Dip",
+    "name": "Dip",
+    "description": "the price is falling",
+    "image": "ipfs://QmS73NzzSFPqvGF1XAW2gLfrpbMYkarGL6aC6LjeR5Vu45",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

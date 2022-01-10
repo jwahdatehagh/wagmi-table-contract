@@ -1,0 +1,13 @@
+{
+    "id": 112,
+    "symbol": "Cl",
+    "name": "Collecting",
+    "description": "in it for the art",
+    "image": "ipfs://QmP6eK6JcjrtwDmc8UqeevfCKvM9yp1pfELBE7ZVFS3MZR",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

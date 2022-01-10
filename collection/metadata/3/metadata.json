@@ -1,0 +1,13 @@
+{
+    "id": 3,
+    "symbol": "Dev",
+    "name": "Developer",
+    "description": "the people who can do something",
+    "image": "ipfs://QmPGRd1ztRQQRd13AhnCAFdw7Mwkv3JhhC37j8hmx8gpdC",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

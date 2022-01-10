@@ -1,0 +1,13 @@
+{
+    "id": 11,
+    "symbol": "Doge",
+    "name": "Dogecoin",
+    "description": "dogecoin",
+    "image": "ipfs://QmZntU2eW6LP4KZVRatgQE1u1kR2QHNPGMJunqoX9Teqz7",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

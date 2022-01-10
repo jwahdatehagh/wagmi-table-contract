@@ -1,0 +1,13 @@
+{
+    "id": 17,
+    "symbol": "Qn",
+    "name": "Queen",
+    "description": "token of admiration",
+    "image": "ipfs://Qma3wyySaFGFLB7Rv27QRnc6Yi4To3wxMgMkSEQGxcXgqy",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

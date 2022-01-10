@@ -1,0 +1,13 @@
+{
+    "id": 66,
+    "symbol": "Tok",
+    "name": "Token",
+    "description": "assets worth coins",
+    "image": "ipfs://QmSxBVfnmcn9vQ6hDMhvHt1t7Kc2SuW4bkE1EQWxsacVB9",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

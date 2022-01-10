@@ -1,0 +1,13 @@
+{
+    "id": 52,
+    "symbol": "Fct",
+    "name": "Faucet",
+    "description": "free test money",
+    "image": "ipfs://QmbHMDnSQAkEUd1cuCGMUxpUmkNpK1UEcGxPQaqkg39n5J",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

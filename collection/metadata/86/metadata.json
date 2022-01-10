@@ -1,0 +1,13 @@
+{
+    "id": 86,
+    "symbol": "Bayc",
+    "name": "Bored Ape Yacht Club",
+    "description": "rich and bored",
+    "image": "ipfs://QmbFbRfeuXMkLwqi6ToAkimhJjVNfBc3cKJYPeD8Lu8kHQ",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "art"
+        }
+    ]
+}

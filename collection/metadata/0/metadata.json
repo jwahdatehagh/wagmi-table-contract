@@ -1,0 +1,13 @@
+{
+    "id": 0,
+    "symbol": "Wagmi",
+    "name": "WAGMI",
+    "description": "we all gonna make it",
+    "image": "ipfs://QmPtzycX4W6K1sDbuzyXjy64JqsJYWtquviz1SqgRumQ2U",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

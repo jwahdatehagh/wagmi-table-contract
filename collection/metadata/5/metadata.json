@@ -1,0 +1,13 @@
+{
+    "id": 5,
+    "symbol": "Ape",
+    "name": "Ape",
+    "description": "to buy without thought",
+    "image": "ipfs://QmPfsBoH3yuZDZESCkLC1ZFQLG667f7GDZfs1zEk9nbfFT",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

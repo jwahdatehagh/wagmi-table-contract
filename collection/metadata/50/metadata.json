@@ -1,0 +1,13 @@
+{
+    "id": 50,
+    "symbol": "Gas",
+    "name": "Gas",
+    "description": "network tax",
+    "image": "ipfs://QmVo2VoLpgg5LYqGcLhiWho24yRiGme76Qoah1jxH3joRh",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

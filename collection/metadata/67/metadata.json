@@ -1,0 +1,13 @@
+{
+    "id": 67,
+    "symbol": "S",
+    "name": "Seed Phrase",
+    "description": "seed phrase",
+    "image": "ipfs://QmVNLiGHWL29JrAfbMH4wz2sL44mARHRhP39mUDnQu9unE",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

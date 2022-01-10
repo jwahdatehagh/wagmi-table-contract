@@ -1,0 +1,13 @@
+{
+    "id": 62,
+    "symbol": "Wen",
+    "name": "Wen",
+    "description": "a question of when",
+    "image": "ipfs://QmUzMYJLruCkodrdEnTjJrhDJuCeMhb5tFMt5Vm8N9rGNe",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

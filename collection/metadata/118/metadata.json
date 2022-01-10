@@ -1,0 +1,13 @@
+{
+    "id": 118,
+    "symbol": "Ded",
+    "name": "Dead",
+    "description": "something funnny",
+    "image": "ipfs://QmZnzgGJkfPLRo7fFRrmn9JZEvkziVLK6p9NEmTaFnJurX",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 1,
+    "symbol": "Gm",
+    "name": "GM",
+    "description": "good morning",
+    "image": "ipfs://Qmap2PDeQfQRbZtB5MZ2rfhQALvRazFRLF85byeTVs2WBm",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

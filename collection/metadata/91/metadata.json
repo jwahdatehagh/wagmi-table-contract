@@ -1,0 +1,13 @@
+{
+    "id": 91,
+    "symbol": "Flp",
+    "name": "Flip",
+    "description": "in it for the money",
+    "image": "ipfs://QmNRKGjkaw7C1thFQ49BJAVZw7GYscD9ugVP2amyVGMR2p",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

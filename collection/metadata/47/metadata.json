@@ -1,0 +1,13 @@
+{
+    "id": 47,
+    "symbol": "Cm",
+    "name": "Community",
+    "description": "sense of togetherness",
+    "image": "ipfs://QmTjnNS71BXZcQcXCw3LeY1YmWPTyQkeF2tyPYNpvTHQVj",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

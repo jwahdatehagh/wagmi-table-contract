@@ -1,0 +1,13 @@
+{
+    "id": 110,
+    "symbol": "Fiat",
+    "name": "FIAT",
+    "description": "centralized currency",
+    "image": "ipfs://QmYVpG2Ag8ckZKAkxnS4CajVcfsFyevwPGjmDad7HERJxc",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

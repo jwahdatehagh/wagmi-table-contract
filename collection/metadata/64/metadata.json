@@ -1,0 +1,13 @@
+{
+    "id": 64,
+    "symbol": "Mint",
+    "name": "Mint",
+    "description": "call into existence",
+    "image": "ipfs://QmSB69YJESmC9p2QC6WVhy6VqoXrh2EDfqJrxr6SvBDm4u",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

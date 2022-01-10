@@ -1,0 +1,13 @@
+{
+    "id": 26,
+    "symbol": "Sup",
+    "name": "Supply",
+    "description": "supply of stuff",
+    "image": "ipfs://QmNZMusjMpXrgP9wqKcQWsUpbNM9ULpR1cXSob6cBaGMYU",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

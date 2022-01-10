@@ -1,0 +1,13 @@
+{
+    "id": 70,
+    "symbol": "Dao",
+    "name": "Decentalised Autonomous Organisation",
+    "description": "trustless collaboration",
+    "image": "ipfs://Qma7xgz1mp1RD5R5tvCkHi8rYf4Qu6DKjQFkHZCpCuUQA5",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 9,
+    "symbol": "Eth",
+    "name": "Ethereum",
+    "description": "world computer",
+    "image": "ipfs://QmPfux7gYqRiw2FQafDBLnf37ynxzTgbSiJGGK77AkNZJS",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

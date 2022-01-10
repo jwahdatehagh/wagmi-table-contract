@@ -1,0 +1,13 @@
+{
+    "id": 123,
+    "symbol": "Og",
+    "name": "Original Gangster",
+    "description": "original",
+    "image": "ipfs://QmbxwHLFqYNFmGBy2Qh46vhNshNpEnzuayAq7w6vQBfsjh",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "observation"
+        }
+    ]
+}

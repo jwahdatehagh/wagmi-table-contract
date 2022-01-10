@@ -1,0 +1,13 @@
+{
+    "id": 38,
+    "symbol": "Tx",
+    "name": "Transaction",
+    "description": "from one address to another",
+    "image": "ipfs://QmXtq7YnUeaiLhjrYwgknQtaYPFiWRZpRPdNvDrCEJff38",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

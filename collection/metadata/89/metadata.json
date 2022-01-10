@@ -1,0 +1,13 @@
+{
+    "id": 89,
+    "symbol": "Btd",
+    "name": "Buy The Dip",
+    "description": "buy the fucking dip",
+    "image": "ipfs://QmSy57wU5pTyXvUof5pByfSNTN4Fz79jZgjZi83fNBUqNR",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 129,
+    "symbol": "Ps",
+    "name": "PunkScape",
+    "description": "punkscape",
+    "image": "ipfs://QmT8HZrL62bymWCJu7NoHCL3wScCiP16e1zozFkQuR8m74",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "art"
+        }
+    ]
+}

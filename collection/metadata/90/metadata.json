@@ -1,0 +1,13 @@
+{
+    "id": 90,
+    "symbol": "Dyor",
+    "name": "DYOR",
+    "description": "something said to noobs",
+    "image": "ipfs://QmZHLd7DCjuFoz3EnifV5DnrDLKsC3Z1i3xdshKJX6fDFi",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "action"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 96,
+    "symbol": "Roi",
+    "name": "Return on Investment",
+    "description": "what you hope to get",
+    "image": "ipfs://QmVoGXXY85dtxZXYANF3DFdRPnq8wU2HhcquRiWBhMY4xy",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "market"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 16,
+    "symbol": "Co",
+    "name": "Collection",
+    "description": "collection of work",
+    "image": "ipfs://QmaXrmDB16SHYevyb4VCyem6pexkkYa1r7feGvMMdMZc1M",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "art"
+        }
+    ]
+}

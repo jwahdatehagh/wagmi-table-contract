@@ -1,0 +1,13 @@
+{
+    "id": 82,
+    "symbol": "Pow",
+    "name": "Proof Of Work",
+    "description": "energy was spent",
+    "image": "ipfs://QmeSikA3RneiwZbL2wWhSShLbgA64Bn4AXxbRsWKcz6Evf",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "tech"
+        }
+    ]
+}

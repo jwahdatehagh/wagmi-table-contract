@@ -1,0 +1,13 @@
+{
+    "id": 46,
+    "symbol": "Ser",
+    "name": "Sir",
+    "description": "token of respect",
+    "image": "ipfs://QmXmS4S5o4363keaoZTE4ju2WQ7nRE142TxkYLMKi4Y5vz",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "id": 60,
+    "symbol": "Bull",
+    "name": "Bull",
+    "description": "bullish optimism",
+    "image": "ipfs://QmbLLJbDK9dZxyNqAn7yTTABGHiM8gzLyuuoRhA233DWWi",
+    "attributes": [
+        {
+            "trait_type": "group",
+            "value": "slang"
+        }
+    ]
+}
