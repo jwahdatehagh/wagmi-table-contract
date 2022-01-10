@@ -4,6 +4,7 @@
     "@nomiclabs/hardhat-ethers": "^2.0.4",
     "@nomiclabs/hardhat-etherscan": "^2.1.8",
     "@nomiclabs/hardhat-waffle": "^2.0.1",
+    "@pinata/sdk": "^1.1.23",
     "chai": "^4.3.4",
     "dotenv": "^10.0.0",
     "eslint": "^7.32.0",
@@ -17,15 +18,14 @@
     "ethers": "^5.5.3",
     "hardhat": "^2.8.2",
     "hardhat-gas-reporter": "^1.0.6",
+    "ipfs-core": "^0.13.0",
     "prettier": "^2.5.1",
     "prettier-plugin-solidity": "^1.0.0-beta.13",
     "solhint": "^3.3.6",
     "solidity-coverage": "^0.7.17"
   },
   "dependencies": {
-    "@1001-digital/erc721-extensions": "1001-digital/erc721-extensions",
-    "@openzeppelin/contracts": "^4.4.1",
-    "@pinata/sdk": "^1.1.23",
-    "ipfs-core": "^0.13.0"
+    "@1001-digital/erc721-extensions": "^0.0.16",
+    "@openzeppelin/contracts": "^4.4.1"
   }
 }

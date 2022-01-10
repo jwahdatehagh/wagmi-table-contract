@@ -2,9 +2,10 @@
 # yarn lockfile v1
 
 
-"@1001-digital/erc721-extensions@1001-digital/erc721-extensions":
+"@1001-digital/erc721-extensions@^0.0.16":
   version "0.0.16"
-  resolved "https://codeload.github.com/1001-digital/erc721-extensions/tar.gz/74149fd0a07c1cddac9bd686fbcbffa1b89005c9"
+  resolved "https://registry.yarnpkg.com/@1001-digital/erc721-extensions/-/erc721-extensions-0.0.16.tgz#c48dd79e7a459325708c5f066cd3a1696d76759e"
+  integrity sha512-GO+/0GHKT8FVuuVHxZrHBLx/oPohVLNO7V++Z3Bii8eUCR0kOYXhPb0/MDkMn/hmCY/HAoHL7KT7yYx6stagGQ==
 
 "@assemblyscript/loader@^0.9.4":
   version "0.9.4"
