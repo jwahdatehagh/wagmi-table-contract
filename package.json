@@ -25,6 +25,7 @@
   "dependencies": {
     "@1001-digital/erc721-extensions": "1001-digital/erc721-extensions",
     "@openzeppelin/contracts": "^4.4.1",
+    "@pinata/sdk": "^1.1.23",
     "ipfs-core": "^0.13.0"
   }
 }
