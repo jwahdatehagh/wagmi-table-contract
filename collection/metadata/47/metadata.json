@@ -3,7 +3,9 @@
     "symbol": "Cm",
     "name": "Community",
     "description": "sense of togetherness",
-    "image": "ipfs://QmTjnNS71BXZcQcXCw3LeY1YmWPTyQkeF2tyPYNpvTHQVj",
+    "image": "ipfs://QmPuTu1UkCTX4gwwdag1CSt32JiwrpyJC4SwrtZnxxs6jn",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#47",
     "attributes": [
         {
             "trait_type": "group",

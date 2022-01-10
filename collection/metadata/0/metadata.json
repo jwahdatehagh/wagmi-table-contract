@@ -3,7 +3,9 @@
     "symbol": "Wagmi",
     "name": "WAGMI",
     "description": "we all gonna make it",
-    "image": "ipfs://QmPtzycX4W6K1sDbuzyXjy64JqsJYWtquviz1SqgRumQ2U",
+    "image": "ipfs://QmbHBHUfdqkgQDdMy2PxkioYjWMS1X4RjWHBc1rwMD4n9V",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#0",
     "attributes": [
         {
             "trait_type": "group",

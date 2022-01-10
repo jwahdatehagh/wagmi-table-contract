@@ -2,8 +2,10 @@
     "id": 78,
     "symbol": "Ptp",
     "name": "Peer to Peer",
-    "description": "peer to peer",
-    "image": "ipfs://QmUhkkQ2djuMWmZnDKkZQxjX5Ws8xN664HNobtk7LBTrjs",
+    "description": "third party not required",
+    "image": "ipfs://QmWYr5NQtFkGtQUw3iFw18NYYWvALJ3QYRf9C8mbfp1JNx",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#78",
     "attributes": [
         {
             "trait_type": "group",

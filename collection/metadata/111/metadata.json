@@ -3,11 +3,13 @@
     "symbol": "F",
     "name": "Floor price",
     "description": "sales start here",
-    "image": "ipfs://QmeG72oR8TgSb6XHnpQJLknB1qSUS8rEeeRwAGJZmcNtDi",
+    "image": "ipfs://QmZV7E9LCczFEwXsp8bmZpnHuBz6dG7kDuyK2NoRGUguow",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#111",
     "attributes": [
         {
             "trait_type": "group",
-            "value": "tech"
+            "value": "market"
         }
     ]
 }

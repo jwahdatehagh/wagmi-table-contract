@@ -3,11 +3,13 @@
     "symbol": "V",
     "name": "Value",
     "description": "worth of something",
-    "image": "ipfs://QmYNHKSmjfoiz4CDie9Z772QdCXtFhEsNPJWAzcCHTWPmu",
+    "image": "ipfs://QmNNDeWcwmeArFoCb7Lu85h51nusePsWq7v4WRsKTMTv5i",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#69",
     "attributes": [
         {
             "trait_type": "group",
-            "value": "market"
+            "value": "Jack"
         }
     ]
 }

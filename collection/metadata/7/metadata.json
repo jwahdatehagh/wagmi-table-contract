@@ -2,8 +2,10 @@
     "id": 7,
     "symbol": "Up",
     "name": "Up",
-    "description": "the only way is up",
-    "image": "ipfs://QmPcc9iB1bDBLT3BDLXWxJNH4Ee6qNsSBUjtgBhE1PixHS",
+    "description": "this is the way",
+    "image": "ipfs://Qmd72Ra62SkdxAEPaQoBuKhmXCd7E7KVxrbZKc1VyQCm3Y",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#7",
     "attributes": [
         {
             "trait_type": "group",

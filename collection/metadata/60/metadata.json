@@ -3,7 +3,9 @@
     "symbol": "Bull",
     "name": "Bull",
     "description": "bullish optimism",
-    "image": "ipfs://QmbLLJbDK9dZxyNqAn7yTTABGHiM8gzLyuuoRhA233DWWi",
+    "image": "ipfs://QmV53VRzp9Ri8evvFBoy57Qqz7hRYb2DKqp7w3cvD2Auke",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#60",
     "attributes": [
         {
             "trait_type": "group",

@@ -3,7 +3,9 @@
     "symbol": "Whale",
     "name": "Whale",
     "description": "person of great wealth",
-    "image": "ipfs://QmU7QEoaEehcGd3WG8kM3rjtxLsp5dRJpRyEw656KhVU2b",
+    "image": "ipfs://QmYdkt6tUNCmoi9b479D2N6EmtsGWXZhF3sx7n9D4rVGxK",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#18",
     "attributes": [
         {
             "trait_type": "group",

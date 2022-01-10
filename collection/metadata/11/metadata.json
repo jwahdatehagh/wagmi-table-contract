@@ -2,8 +2,10 @@
     "id": 11,
     "symbol": "Doge",
     "name": "Dogecoin",
-    "description": "dogecoin",
-    "image": "ipfs://QmZntU2eW6LP4KZVRatgQE1u1kR2QHNPGMJunqoX9Teqz7",
+    "description": "meme coin",
+    "image": "ipfs://QmRQDkBjk8ZQjZmoxpZ1K2qXdNamj4CXXcvLUEBH9L73fN",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#11",
     "attributes": [
         {
             "trait_type": "group",

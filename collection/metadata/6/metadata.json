@@ -2,8 +2,10 @@
     "id": 6,
     "symbol": "Dh",
     "name": "Diamond Hands",
-    "description": "diamond hands never sell",
-    "image": "ipfs://QmXZdi2dqc1fjtoAGuSxmdvVXRZgbgKNTeN1NFCKyKuRQj",
+    "description": "will never sell",
+    "image": "ipfs://Qme5TJrwuffVekrZxrrCFrQWLDdSpdDf79VibK7xwuATeL",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#6",
     "attributes": [
         {
             "trait_type": "group",

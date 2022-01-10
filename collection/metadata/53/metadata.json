@@ -3,7 +3,9 @@
     "symbol": "Pos",
     "name": "Proof of Stake",
     "description": "stakes to lose",
-    "image": "ipfs://QmeJpuL4FR1y6WcRbjXnmuGyNUaLoJQeAELemuss3dcz7f",
+    "image": "ipfs://QmVRtQy2SBmau2fXbjvy24fk9fCFdHWcjAtyJxxCDzsJfQ",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#53",
     "attributes": [
         {
             "trait_type": "group",

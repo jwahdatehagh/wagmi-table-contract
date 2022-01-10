@@ -3,7 +3,9 @@
     "symbol": "Fud",
     "name": "FUD",
     "description": "fear, uncertaintity, doubt",
-    "image": "ipfs://QmdQs4eYDAxyYnttCKwPQ8Wtm4VBEsXfrrf3AToLccNwz5",
+    "image": "ipfs://QmQW6Qx5cgepP1UaJCkwyDMSVBuDmqnt6DyAJk3tFRUNWN",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#116",
     "attributes": [
         {
             "trait_type": "group",

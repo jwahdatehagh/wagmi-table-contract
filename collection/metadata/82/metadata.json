@@ -1,9 +1,11 @@
 {
     "id": 82,
     "symbol": "Pow",
-    "name": "Proof Of Work",
+    "name": "Proof of Work",
     "description": "energy was spent",
-    "image": "ipfs://QmeSikA3RneiwZbL2wWhSShLbgA64Bn4AXxbRsWKcz6Evf",
+    "image": "ipfs://QmdLV4yiUiNAXidFvMksuhg91EeJJVEwAPizmet7hyJMVB",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#82",
     "attributes": [
         {
             "trait_type": "group",

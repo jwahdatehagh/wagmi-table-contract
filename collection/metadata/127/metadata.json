@@ -3,7 +3,9 @@
     "symbol": "Cope",
     "name": "Cope",
     "description": "to deal with losses",
-    "image": "ipfs://QmUNCpP1CRooEhtY1dvWLQKU3cFLz9XKKKR2yyYTEgbpKf",
+    "image": "ipfs://QmZLrYtk2HHusTH6XG1PZDVa91GN6niNNdyLKT3CGPYYnf",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#127",
     "attributes": [
         {
             "trait_type": "group",

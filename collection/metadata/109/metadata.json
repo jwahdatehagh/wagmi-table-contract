@@ -2,8 +2,10 @@
     "id": 109,
     "symbol": "Dpl",
     "name": "Deploy",
-    "description": "new digital building block",
-    "image": "ipfs://QmTs2odQsriy83vimii4pwYGVhsPfqebruScpd3tSkywG1",
+    "description": "new digital building block ",
+    "image": "ipfs://QmYUeVriqC2ZosbJgxmFHCYLvSJkgeWrKwUNhpdCHWrQ51",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#109",
     "attributes": [
         {
             "trait_type": "group",

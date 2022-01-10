@@ -3,7 +3,9 @@
     "symbol": "Rm",
     "name": "Roadmap",
     "description": "a vague idea of a plan",
-    "image": "ipfs://QmbQLD34aN34xDEnA4tkQgmzghYACCXevMmi1yUcQPLWqR",
+    "image": "ipfs://QmRX3UZ2opKcqTgaQjDWTBDrBMU4ztRXhjcMgsFmmds4Jg",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#57",
     "attributes": [
         {
             "trait_type": "group",

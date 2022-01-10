@@ -3,7 +3,9 @@
     "symbol": "Bayc",
     "name": "Bored Ape Yacht Club",
     "description": "rich and bored",
-    "image": "ipfs://QmbFbRfeuXMkLwqi6ToAkimhJjVNfBc3cKJYPeD8Lu8kHQ",
+    "image": "ipfs://QmR4ZEXLDiyQvTQMsAF4XmPGu2qTEXG3GSPQ9kXRQCvYZH",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#86",
     "attributes": [
         {
             "trait_type": "group",

@@ -2,8 +2,10 @@
     "id": 113,
     "symbol": "In",
     "name": "Incentive",
-    "description": "it gets you going",
-    "image": "ipfs://QmdJdWpUYzEf8gceA8JxEkFEEVRu7GTiDbeXJwJWYdP1w9",
+    "description": "gets you going",
+    "image": "ipfs://QmaJL5mSDbeXCX39QpoxpJb6n35Ub5gpsZvQNpG75o7mye",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#113",
     "attributes": [
         {
             "trait_type": "group",

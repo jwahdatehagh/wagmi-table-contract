@@ -2,8 +2,10 @@
     "id": 67,
     "symbol": "S",
     "name": "Seed Phrase",
-    "description": "seed phrase",
-    "image": "ipfs://QmVNLiGHWL29JrAfbMH4wz2sL44mARHRhP39mUDnQu9unE",
+    "description": "something never shared",
+    "image": "ipfs://QmP56ASLfNp418KQKKCaBfx682ki3dy6JP87ZvEcPyZHQv",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#67",
     "attributes": [
         {
             "trait_type": "group",

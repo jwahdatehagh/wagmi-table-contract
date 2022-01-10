@@ -3,7 +3,9 @@
     "symbol": "Yk",
     "name": "IYKYK",
     "description": "if you know you know",
-    "image": "ipfs://QmZFdPRz5Q8m2GuLPL3ZCNxU7jYmivs3aY7q2PPhYycdSB",
+    "image": "ipfs://QmXR9ZEGJVp9SfTXkzwSF2cbtPU4eLfWHgY4yCZ5f4s6cY",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#125",
     "attributes": [
         {
             "trait_type": "group",

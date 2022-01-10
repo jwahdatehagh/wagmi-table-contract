@@ -3,7 +3,9 @@
     "symbol": "Mm",
     "name": "MetaMask",
     "description": "foxy wallet",
-    "image": "ipfs://QmaNGMdXCKXLofmCDZW7tMqNZ7jy7A5c8WigYQybViNec4",
+    "image": "ipfs://QmW313rpL43y7A9PeteztWMAr99drYKcQk6YZ7x1hBggBL",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#41",
     "attributes": [
         {
             "trait_type": "group",

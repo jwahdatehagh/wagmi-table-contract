@@ -2,8 +2,10 @@
     "id": 14,
     "symbol": "Fnd",
     "name": "Foundation",
-    "description": "you need an invitation",
-    "image": "ipfs://QmWMWHPzcxYijmwDLMr4jRhusTHtxVN34mCVogb5mUzRZg",
+    "description": "invite only",
+    "image": "ipfs://QmREW11h1VaSJnKt3vrUBYcFMbit6EiSaiWmSEYJzaqYwn",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#14",
     "attributes": [
         {
             "trait_type": "group",

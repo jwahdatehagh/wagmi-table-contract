@@ -3,7 +3,9 @@
     "symbol": "Free",
     "name": "Free",
     "description": "below cheap level",
-    "image": "ipfs://QmWnySKo9Xp4gUokcw37M2puUyVeyfJ9QvrJFFxQ6LNEyB",
+    "image": "ipfs://QmfS9nnodwEwV4rD4yWhNFhRH5tGCMikj2cRwrZeiYsF2k",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#97",
     "attributes": [
         {
             "trait_type": "group",

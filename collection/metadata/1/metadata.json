@@ -2,8 +2,10 @@
     "id": 1,
     "symbol": "Gm",
     "name": "GM",
-    "description": "good morning",
-    "image": "ipfs://Qmap2PDeQfQRbZtB5MZ2rfhQALvRazFRLF85byeTVs2WBm",
+    "description": "hey i'm here",
+    "image": "ipfs://QmXX15xFYgiWD1fbJcLUQF65WzzJZxkkSkmLJ5rribiBzM",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#1",
     "attributes": [
         {
             "trait_type": "group",

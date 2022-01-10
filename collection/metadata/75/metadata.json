@@ -3,7 +3,9 @@
     "symbol": "Maxi",
     "name": "Maximalist",
     "description": "monocoinistic",
-    "image": "ipfs://QmXPaTyQEDcH97pF1VZY42ohxDozQ4Cc5gNioLNVeoYZjt",
+    "image": "ipfs://QmNthPTFiMGF76PgJP3ssdiq9D6ZN25RriRoGUovseaXhM",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#75",
     "attributes": [
         {
             "trait_type": "group",

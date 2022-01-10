@@ -3,7 +3,9 @@
     "symbol": "Drop",
     "name": "Drop",
     "description": "new stuff",
-    "image": "ipfs://QmexsLwKn2qy8eSbheXeeQvH1HYnLiesV5xHiDhsP12hjC",
+    "image": "ipfs://QmPfjVAZHT3hqJT8bNzYKQADRFsxsV4czQRK1uFAE7V2f4",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#21",
     "attributes": [
         {
             "trait_type": "group",

@@ -2,8 +2,10 @@
     "id": 105,
     "symbol": "Nia",
     "name": "Not Investment Advice",
-    "description": "not investment advice",
-    "image": "ipfs://QmVAP2Y3yue4EnbbucmjrQbdKqr4WsUpms2cNfe17jYRz2",
+    "description": "so you can't sue",
+    "image": "ipfs://QmeWbQ1mgjeGBbMpnFfross4CfTSAHt1i9KD1QVjWBrCzs",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#105",
     "attributes": [
         {
             "trait_type": "group",

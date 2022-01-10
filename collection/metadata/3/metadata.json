@@ -2,8 +2,10 @@
     "id": 3,
     "symbol": "Dev",
     "name": "Developer",
-    "description": "the people who can do something",
-    "image": "ipfs://QmPGRd1ztRQQRd13AhnCAFdw7Mwkv3JhhC37j8hmx8gpdC",
+    "description": "people who can do something",
+    "image": "ipfs://QmccadeCnbgoZ5wYjfJrxck4Vof6tdrSuQgSjjJGcWf2ek",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#3",
     "attributes": [
         {
             "trait_type": "group",

@@ -3,7 +3,9 @@
     "symbol": "Goat",
     "name": "GOAT",
     "description": "token of acclaim",
-    "image": "ipfs://QmUggwx7BqRWXJF2xrFmJVUj8Wccm4ktZgCUKc8p6CrNV9",
+    "image": "ipfs://QmR2scyZ4NHj2APSCiYbdhWgbKx6qxaKoSDsDbXMSmvJE6",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#4",
     "attributes": [
         {
             "trait_type": "group",

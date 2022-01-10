@@ -3,7 +3,9 @@
     "symbol": "Pk",
     "name": "Private Key",
     "description": "a key you keep private",
-    "image": "ipfs://QmeoV9xZNW3maZMr8M6p8YLeX9Uon9iAf6X9DLxsUPK5yF",
+    "image": "ipfs://QmSp8bsghJ8CewCA7bNjedA9t4VgZtLPkoem1jKZUYvqsH",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#27",
     "attributes": [
         {
             "trait_type": "group",

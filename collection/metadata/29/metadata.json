@@ -2,8 +2,10 @@
     "id": 29,
     "symbol": "Dc",
     "name": "Discord",
-    "description": "a digital treehouse",
-    "image": "ipfs://QmZ8GPCLbDUSNgXUbn4evTqR9XmBJJxA8b1auF9KpvuKsF",
+    "description": "notification station",
+    "image": "ipfs://QmT4tiXHonLxrKYzaQ95qzcQJGcb9erBBNm1QwubY64iB9",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#29",
     "attributes": [
         {
             "trait_type": "group",

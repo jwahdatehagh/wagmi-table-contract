@@ -2,8 +2,10 @@
     "id": 117,
     "symbol": "Vibe",
     "name": "Vibe",
-    "description": "what life is about",
-    "image": "ipfs://QmTUTpuFFFwjpF8RR9ToQgbKXfAwMXZaKXtL1marK6S1Pr",
+    "description": "energy",
+    "image": "ipfs://QmXEeo5NS1C1AT1Fn532BRm8F2LG25Wb1qLU79q3nA7RL2",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#117",
     "attributes": [
         {
             "trait_type": "group",

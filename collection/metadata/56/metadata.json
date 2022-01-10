@@ -3,7 +3,9 @@
     "symbol": "Dapp",
     "name": "Decentralized Application",
     "description": "future of apps",
-    "image": "ipfs://QmRcwAnd6xCsDTKWJc543bWz5ZyKFfbMMAPctrC8gvZfL5",
+    "image": "ipfs://QmNN9rvx5JZjzzC2Kk8YCMjicSb4ZAzs8BCeJjGSDhgQSg",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#56",
     "attributes": [
         {
             "trait_type": "group",

@@ -3,7 +3,9 @@
     "symbol": "Sc",
     "name": "Smart Contract",
     "description": "smart contract",
-    "image": "ipfs://QmReeittkoFYY3Vu41rXdjZZjT7G7qpfPRQgNnSBpkKt1H",
+    "image": "ipfs://QmUH6QEX9oDbJ5P2xtNmDMyPgUnNH7DsGwACFPxkXKbbWV",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#24",
     "attributes": [
         {
             "trait_type": "group",

@@ -3,7 +3,9 @@
     "symbol": "Jpg",
     "name": "JPG",
     "description": "bitmap investment",
-    "image": "ipfs://QmcK7FSRjXTY1dcLxjf2hr1dog4W7NMmmsU3VFSXkBsgkK",
+    "image": "ipfs://QmNfk6apxiSTXPNeXZU9ww34pPih1KbpdCr5yDtdt5FyQo",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#79",
     "attributes": [
         {
             "trait_type": "group",

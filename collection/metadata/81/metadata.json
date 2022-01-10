@@ -2,8 +2,10 @@
     "id": 81,
     "symbol": "Nft",
     "name": "Non Fungible Token",
-    "description": "not the same",
-    "image": "ipfs://QmR7QKARqP5Ebwf7uGhDKUuHx4CrTHGkSrXnBdVg2e3bCd",
+    "description": "one of a kind",
+    "image": "ipfs://QmayPkmWQsXrVkZBH2WzMPCMHwZ5CdyX3RC9U9rLRCSpTk",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#81",
     "attributes": [
         {
             "trait_type": "group",

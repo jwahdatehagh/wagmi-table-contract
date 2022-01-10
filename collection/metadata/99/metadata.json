@@ -3,7 +3,9 @@
     "symbol": "Ro",
     "name": "Royalty",
     "description": "a nice cut",
-    "image": "ipfs://Qmb6cLVo2htMwSnDuVt5PdmqLH9hPF6P4D1zUvAH8JetN6",
+    "image": "ipfs://QmbfeskMECbmnUXNFe7FwEVPPFr1WYXyK8WSf1Z5X2qGcp",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#99",
     "attributes": [
         {
             "trait_type": "group",

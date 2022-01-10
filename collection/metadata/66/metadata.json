@@ -3,7 +3,9 @@
     "symbol": "Tok",
     "name": "Token",
     "description": "assets worth coins",
-    "image": "ipfs://QmSxBVfnmcn9vQ6hDMhvHt1t7Kc2SuW4bkE1EQWxsacVB9",
+    "image": "ipfs://QmSiBPoD8TtuzuFHTQHBehnvKUxj5dYvXovFRNYNh81n4Z",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#66",
     "attributes": [
         {
             "trait_type": "group",

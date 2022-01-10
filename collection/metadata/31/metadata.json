@@ -3,7 +3,9 @@
     "symbol": "Kng",
     "name": "King",
     "description": "token of admiration",
-    "image": "ipfs://QmZo55rdUJy6EHUaABHwLg7b4MY5DhE98GCVQG5XcPXzFw",
+    "image": "ipfs://QmPyURnWGeoZknxqrBb15qLo9WhFfowHSdFyzQcZGrrhHt",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#31",
     "attributes": [
         {
             "trait_type": "group",

@@ -3,7 +3,9 @@
     "symbol": "Bear",
     "name": "Bear",
     "description": "lifeless pessemism",
-    "image": "ipfs://QmYb2tjhU4mTqUhbxT5MCdN1YqWoKfCrXewo7GyGNFngru",
+    "image": "ipfs://QmWb6Q4De3WvA91MXt453xHL8nVs5VTZyPAwh4n7wDj7Md",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#74",
     "attributes": [
         {
             "trait_type": "group",

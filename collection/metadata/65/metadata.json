@@ -1,8 +1,11 @@
 {
     "id": 65,
     "symbol": "Mng",
-    "name": "solve for reward",
-    "image": "ipfs://QmQfB2EmqP98zoGVydfo1tEitPGtxJAM98xcetYP4w1B5e",
+    "name": "Mining",
+    "description": "computers problem solving",
+    "image": "ipfs://QmQvb1vNHRSKUFodswDbnjYTytiKJtKWshA3gcnP3v2KPe",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#65",
     "attributes": [
         {
             "trait_type": "group",

@@ -3,7 +3,9 @@
     "symbol": "Air",
     "name": "Airdrop",
     "description": "digital gifts",
-    "image": "ipfs://QmUvDPdDezu8LjFfeRy3vWK8SFVeLMBUhnoG8FzhH15umz",
+    "image": "ipfs://QmZJVoqHSrT2AswANc6cGUbvD2NowDKy7Ks2KkHDVC5oEA",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#98",
     "attributes": [
         {
             "trait_type": "group",

@@ -3,7 +3,9 @@
     "symbol": "Shill",
     "name": "Shill",
     "description": "pushy selling",
-    "image": "ipfs://QmQc9513sAs6CTcTVMJrAD2jhJ1JrTieNXDfU7AE95QbYc",
+    "image": "ipfs://QmTMmxifDbgArnrUiwY52V5zXuyEaFtYpUH6qwXktgHYZq",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#119",
     "attributes": [
         {
             "trait_type": "group",

@@ -3,7 +3,9 @@
     "symbol": "Sats",
     "name": "Satoshi",
     "description": "bitcoin atoms",
-    "image": "ipfs://QmY5Qma77vtASfdQig45YJocedZfBqFBB46cUp7zqSBSwz",
+    "image": "ipfs://QmZMNz7M4ky2Mb5PBuBWubdv1YmdqM8rU7w1E4YdGnDR6f",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#22",
     "attributes": [
         {
             "trait_type": "group",

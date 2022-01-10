@@ -2,8 +2,10 @@
     "id": 126,
     "symbol": "Sel",
     "name": "Seems Legit",
-    "description": "looks trustworthy",
-    "image": "ipfs://QmRTRAjWnM4tTdxkHt666DNZnRGZoVYCXuQGiq6XMG65hu",
+    "description": "seems legit",
+    "image": "ipfs://QmVRBGYzDHEeJBLW5w3nW13NTNZamouR3hxrmc2dhm429U",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#126",
     "attributes": [
         {
             "trait_type": "group",

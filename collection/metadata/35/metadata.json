@@ -3,7 +3,9 @@
     "symbol": "Mcd",
     "name": "McDonalds",
     "description": "back up plan",
-    "image": "ipfs://QmP6kTaMDwoqrNgqEJGiiVnN17bSi6pfSGVaP49K2XYF8Z",
+    "image": "ipfs://QmZi5nMy4URqZ3GfRXARs12Ah4vAeq1Znz2B3KgFkaWrpa",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#35",
     "attributes": [
         {
             "trait_type": "group",

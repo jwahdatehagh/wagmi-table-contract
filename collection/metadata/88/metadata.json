@@ -3,7 +3,9 @@
     "symbol": "Lfg",
     "name": "Let's Fucking Go",
     "description": "a battle cry",
-    "image": "ipfs://Qmaj9fKXUATWQRxssHhZC5xkwWuLxPeFkcMHpsKEfS7h14",
+    "image": "ipfs://QmRoa9kuJo99B1c8HPh3MUzvsYg3GcFFgwuqf2ub8Zwd4a",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#88",
     "attributes": [
         {
             "trait_type": "group",

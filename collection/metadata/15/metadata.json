@@ -2,8 +2,10 @@
     "id": 15,
     "symbol": "Ab",
     "name": "Art Blocks",
-    "description": "art blocks",
-    "image": "ipfs://Qmb5Qcq8fmf55pp4W5zZsLJvTzLXrQx3F2yKRE4XESrkfb",
+    "description": "important for art",
+    "image": "ipfs://QmdsmuAZnwQ23G14TSryme8vdbJ6vW5vwoYV3zVkZb7hh4",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#15",
     "attributes": [
         {
             "trait_type": "group",

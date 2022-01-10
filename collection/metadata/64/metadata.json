@@ -3,7 +3,9 @@
     "symbol": "Mint",
     "name": "Mint",
     "description": "call into existence",
-    "image": "ipfs://QmSB69YJESmC9p2QC6WVhy6VqoXrh2EDfqJrxr6SvBDm4u",
+    "image": "ipfs://QmUdB5fACYkdSH6Q5ex2SJZptJyWc7eZ86CBTrSsmTcD1g",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#64",
     "attributes": [
         {
             "trait_type": "group",

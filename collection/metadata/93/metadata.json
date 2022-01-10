@@ -3,7 +3,9 @@
     "symbol": "Szn",
     "name": "Season",
     "description": "market cycle",
-    "image": "ipfs://QmRwrkvMd91nCdGhHfx9XV7Svd2KQJUSJjWUyQ8iHndUKV",
+    "image": "ipfs://QmUTU5LNhMgvTzMA4UeGzRPCzcs9ZP4m6dQ3bh7PJ7p1dS",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#93",
     "attributes": [
         {
             "trait_type": "group",

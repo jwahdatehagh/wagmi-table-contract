@@ -3,7 +3,9 @@
     "symbol": "Li",
     "name": "Liquidity",
     "description": "liquid coins",
-    "image": "ipfs://QmV6be2NuRsvrqpDF7r3LsETRvEowsnLDsG6NP7MgRAcQ7",
+    "image": "ipfs://QmVdLH2mrjsS72ED5WBVrkwR26AP5RdwUqe1Eh6zV1R6Hy",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#32",
     "attributes": [
         {
             "trait_type": "group",

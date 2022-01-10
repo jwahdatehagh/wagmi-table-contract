@@ -2,8 +2,10 @@
     "id": 124,
     "symbol": "Few",
     "name": "Few",
-    "description": "few understand this",
-    "image": "ipfs://QmStsLdVZBxAi7kn91EXZ8sQF67LPTuK3ySrCzNBJ8wdEu",
+    "description": "few understand",
+    "image": "ipfs://QmUfL3i8Pg5Ynpj5USUR9DrpQkE37Yo2P1EPQWs4VNwqZ9",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#124",
     "attributes": [
         {
             "trait_type": "group",

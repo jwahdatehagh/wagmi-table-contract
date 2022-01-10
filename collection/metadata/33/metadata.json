@@ -3,7 +3,9 @@
     "symbol": "Dgn",
     "name": "Degenerate",
     "description": "yield chaser",
-    "image": "ipfs://QmWthrWysAf1ko7yUijmpQBEc2rEaVcvnSLSwULFLQ7esg",
+    "image": "ipfs://QmYTznHpjTwbbHtQzPxXeNiWpuiypTeSERaDFPNt3XV46J",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#33",
     "attributes": [
         {
             "trait_type": "group",

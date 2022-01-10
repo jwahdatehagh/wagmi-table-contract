@@ -3,7 +3,9 @@
     "symbol": "Twtr",
     "name": "Twitter",
     "description": "signal booster",
-    "image": "ipfs://QmWpBYSUX3uBpBjTzCXdB7Ac5HaPxuAejbesuGw1EHtNsD",
+    "image": "ipfs://QmfZ9f4DQcNVWFS4aXmUQUH2URbJQGRPwiFi7tKWtvxNqQ",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#43",
     "attributes": [
         {
             "trait_type": "group",

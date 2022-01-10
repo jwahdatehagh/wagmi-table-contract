@@ -3,7 +3,9 @@
     "symbol": "Mv",
     "name": "Metaverse",
     "description": "beyond the meatspace",
-    "image": "ipfs://QmawT59V6QysxnhNvRuC4nL3TUXLdBEGH5aEGKAoJtRAj7",
+    "image": "ipfs://QmPeDvE49A3LuPRf1pF6aVSBcf1X9fWyyywjBnn6YuGmuo",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#63",
     "attributes": [
         {
             "trait_type": "group",

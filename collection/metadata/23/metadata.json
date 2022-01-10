@@ -3,7 +3,9 @@
     "symbol": "Wei",
     "name": "Wei",
     "description": "tiny ether",
-    "image": "ipfs://QmWTCWjVbe9FHWGxffDa3siKRVLeR8jwMyoT5dmar9GrEc",
+    "image": "ipfs://QmUuT88cvgLTyWfjQSNzeaiqEuYAPR2KAFLCr4vx9AN6Jy",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#23",
     "attributes": [
         {
             "trait_type": "group",

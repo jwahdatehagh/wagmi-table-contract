@@ -16,6 +16,8 @@ const metadataCollection = collection.map(item => ({
   name: item.name,
   description: item.description,
   image: 'image.png',
+  background_color: 'FEEDDB',
+  external_url: `https://wagmitable.xyz#${item.id}`,
   attributes: [
     {
       trait_type: 'group',

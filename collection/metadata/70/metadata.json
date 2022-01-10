@@ -3,7 +3,9 @@
     "symbol": "Dao",
     "name": "Decentalised Autonomous Organisation",
     "description": "trustless collaboration",
-    "image": "ipfs://Qma7xgz1mp1RD5R5tvCkHi8rYf4Qu6DKjQFkHZCpCuUQA5",
+    "image": "ipfs://QmQupUqG1fTEgkeiPjWuKWvQaBv7pbaxzipCf4AfPwFBfW",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#70",
     "attributes": [
         {
             "trait_type": "group",

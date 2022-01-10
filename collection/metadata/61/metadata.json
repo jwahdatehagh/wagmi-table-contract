@@ -2,8 +2,10 @@
     "id": 61,
     "symbol": "Ph",
     "name": "Paper Hands",
-    "description": "investors that panic sell",
-    "image": "ipfs://QmVS17S3bqpA1Dy96xRBVPkVZ9zPHFi5vEPEqgUDztj6D7",
+    "description": "paper hands",
+    "image": "ipfs://QmSGgF1XpmcdAo6KcrkXr1obimSMLf7beh7ggrmigc59c8",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#61",
     "attributes": [
         {
             "trait_type": "group",

@@ -2,8 +2,10 @@
     "id": 102,
     "symbol": "Snap",
     "name": "Snapped",
-    "description": "when someone does something cool",
-    "image": "ipfs://QmU7RHLuMqYKZskWHfSNQHR9Yb52tbGvNRvqn6TRzzFx8G",
+    "description": "when you do something cool",
+    "image": "ipfs://QmR2Um2tm5WJ7q9SSzZdGsHHxH6oo7DVEyERF5BNCZVCFR",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#102",
     "attributes": [
         {
             "trait_type": "group",

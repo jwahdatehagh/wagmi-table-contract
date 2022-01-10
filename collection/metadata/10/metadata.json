@@ -3,7 +3,9 @@
     "symbol": "Ens",
     "name": "Ethereum Name Services",
     "description": "web 3 username",
-    "image": "ipfs://QmaiSttCujdUpGBFgJ7b4aC3ENum8CggFMBu9T4Y4vhcT6",
+    "image": "ipfs://QmPNEzrtPcUvMcAWvT9rEJ862ge6LEjRsK4CumNWwbHz1G",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#10",
     "attributes": [
         {
             "trait_type": "group",

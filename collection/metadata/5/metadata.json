@@ -3,7 +3,9 @@
     "symbol": "Ape",
     "name": "Ape",
     "description": "to buy without thought",
-    "image": "ipfs://QmPfsBoH3yuZDZESCkLC1ZFQLG667f7GDZfs1zEk9nbfFT",
+    "image": "ipfs://QmPQsLgJnwFPW2TpvZxmCsjXUXFydKxcehNw5PHGt4tLC6",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#5",
     "attributes": [
         {
             "trait_type": "group",

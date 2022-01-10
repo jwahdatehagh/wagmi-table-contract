@@ -3,7 +3,9 @@
     "symbol": "Sup",
     "name": "Supply",
     "description": "supply of stuff",
-    "image": "ipfs://QmNZMusjMpXrgP9wqKcQWsUpbNM9ULpR1cXSob6cBaGMYU",
+    "image": "ipfs://QmT9iQrYqajuq2ZKsikYG42Csw2EaL5zmTb4ww1PHbvaLc",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#26",
     "attributes": [
         {
             "trait_type": "group",

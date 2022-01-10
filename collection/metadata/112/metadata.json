@@ -1,9 +1,11 @@
 {
     "id": 112,
     "symbol": "Cl",
-    "name": "Collecting",
+    "name": "Collector",
     "description": "in it for the art",
-    "image": "ipfs://QmP6eK6JcjrtwDmc8UqeevfCKvM9yp1pfELBE7ZVFS3MZR",
+    "image": "ipfs://QmX1jBhXvE5WNjPngGKZb4WhXqPGT4ZquiCjKc5HbpaBdj",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#112",
     "attributes": [
         {
             "trait_type": "group",

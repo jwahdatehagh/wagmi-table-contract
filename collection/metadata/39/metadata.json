@@ -2,8 +2,10 @@
     "id": 39,
     "symbol": "Sca",
     "name": "Scarcity",
-    "description": "a short supply",
-    "image": "ipfs://QmNMNNoLWzpxNR2wENAaqhYvBLZhncnQRiDdf7RK1ecqGQ",
+    "description": "short supply",
+    "image": "ipfs://QmQZJdCD4mYoKdQ9E39KSpDuEKd5WJ9R6hDTxGWtRd5BV8",
+    "background_color": "FEEDDB",
+    "external_url": "https://wagmitable.xyz#39",
     "attributes": [
         {
             "trait_type": "group",
